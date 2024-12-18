@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ0ZDM0czFtdTZ2bDFkdGp2czZ2bXg5NWJyeXp5Ym13b2pyN3hhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy-downsized.gif" width="300" alt=" GIF">
 </p>
+
 ## Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/css3%20-7080F5.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -25,6 +26,20 @@
  </a>
     <img src="https://img.shields.io/badge/vite%20-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white" />&nbsp;&nbsp;&nbsp;
  </a>
+     <img src="https://img.shields.io/badge/github%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ </a>
  </p>
+
+<details>
+  <summary>how i became strong in development </summary>
+  <p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqNTZsOXg1YTh6cHhrMXRranl0MXJqM21pZGowNjc3d2EycWdkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qAtZM2gvjWhPjmclZE/giphy.gif" width="300" alt=" GIF">
+</p>
+</details>
+
+
+ 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=schiesslea&show_icons=true&theme=gotham" alt="schiesslea" />
 
 ![snake gif](https://github.com/Schiesslea/Schiesslea/blob/output/github-snake.svg)

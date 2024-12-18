@@ -4,7 +4,7 @@
 ## Languages and Tools
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
-  <img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3%20-7080F5.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
  </a>
   <img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
  </a>

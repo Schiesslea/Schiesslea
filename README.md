@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I am an It student
-
+<p align="center">
+<img src="https://media.giphy.com/media/4zZOECZ9mSeSoqGpTI/giphy.gif" width="300" alt="Bodybuilder GIF">
+</p>
 ## Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/css3%20-7080F5.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;

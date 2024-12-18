@@ -21,3 +21,5 @@
   <img src="https://img.shields.io/badge/microsoftsqlserver%20-%2343853D.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />&nbsp;&nbsp;&nbsp;
  </a>
  </p>
+
+![snake gif](https://github.com/Schiesslea/Schiesslea/blob/output/github-snake.svg)

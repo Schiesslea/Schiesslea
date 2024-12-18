@@ -18,6 +18,6 @@
  </a>
   <img src="https://img.shields.io/badge/mysql%20-%2343853D.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
  </a>
-  <img src="https://img.shields.io/badge/mysqlserver%20-%2343853D.svg?&style=for-the-badge&logo=mysqlserver&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/microsoftsqlserver%20-%2343853D.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />&nbsp;&nbsp;&nbsp;
  </a>
  </p>

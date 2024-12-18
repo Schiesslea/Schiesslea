@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I am an It student
 <p align="center">
-<img src="https://media.giphy.com/media/4zZOECZ9mSeSoqGpTI/giphy.gif" width="300" alt="Bodybuilder GIF">
+<img src="https://giphy.com/gifs/help-harold-hide-the-pain-pUVOeIagS1rrqsYQJe" width="300" alt=" GIF">
 </p>
 ## Languages and Tools
 <p align="left">
